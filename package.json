@@ -1,0 +1,18 @@
+{
+  "name": "p5",
+  "version": "0.0.0",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "type": "module",
+  "dependencies": {
+    "p5": "^1.9.0",
+    "p5js-wrapper": "^1.2.3"
+  }
+}
